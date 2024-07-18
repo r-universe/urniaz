@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "kmeRs"]
+	path = kmeRs
+	url = https://github.com/urniaz/kmers
+	subdir = kmeRs
