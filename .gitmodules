@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ai"]
+	path = ai
+	url = https://github.com/urniaz/ai
+	subdir = ai
 [submodule "kmeRs"]
 	path = kmeRs
 	url = https://github.com/urniaz/kmers
