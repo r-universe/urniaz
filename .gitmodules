@@ -6,7 +6,3 @@
 	path = ai
 	url = https://github.com/urniaz/ai
 	subdir = ai
-[submodule "kmeRs"]
-	path = kmeRs
-	url = https://github.com/urniaz/kmers
-	subdir = kmeRs
