@@ -6,3 +6,7 @@
 	path = ai
 	url = https://github.com/urniaz/ai
 	subdir = ai
+[submodule "testthatdocs"]
+	path = testthatdocs
+	url = https://github.com/urniaz/testthatdocs
+	subdir = testthatdocs
